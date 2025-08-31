@@ -52,7 +52,7 @@ Each service has its own database for data isolation and scalability.
 
 * **Frontend**: React
 * **Gateway**: Nginx
-* **Backend Services**: Node.js / Express (per service)
+* **Backend Services**: Ballerina (per service)
 * **Databases**: PostgreSQL and MongoDB
 * **Event Streaming**: Apache Kafka
 * **Payments**: Stripe
