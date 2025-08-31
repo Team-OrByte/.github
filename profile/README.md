@@ -21,12 +21,6 @@ The system follows a **scalable event-driven architecture** with services commun
 
 ## System Architecture
 
-### Static Diagram
-
-![System Architecture](./de5d3947-a0c9-4c5a-bbff-58a1b24e5772.png)
-
-### Interactive Version
-
 [View on Eraser![](https://app.eraser.io/workspace/ZZuUR9TQXhSrp0EduFAK/preview?elements=b_Zk5mil_KBPsS5rQaMnRA\&type=embed)](https://app.eraser.io/workspace/ZZuUR9TQXhSrp0EduFAK?elements=b_Zk5mil_KBPsS5rQaMnRA)
 
 ---
