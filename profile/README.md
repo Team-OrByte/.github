@@ -92,7 +92,7 @@ docker compose up -d
 
 ## Collaborators
 
-* **Tharindu Imalka** 
+* **Tharindu Jayawardhana** 
 * **Tharindu Geethanjan** 
 * **Dulshan Siriwardhana** 
 * **Sahan Gawesh** 
